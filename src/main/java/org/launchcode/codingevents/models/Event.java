@@ -10,6 +10,7 @@ import java.util.Objects;
  */
 public class Event {
 
+//    testing github
     private int id;
     private static int nextId = 1;
 
